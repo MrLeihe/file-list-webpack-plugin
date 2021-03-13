@@ -1,0 +1,14 @@
+{
+  "name": "file-list-plugin",
+  "version": "1.0.0",
+  "description": "file list plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "stone",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
